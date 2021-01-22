@@ -282,3 +282,33 @@ a{
     position: relative;
     text-align: center;
 }
+
+.lay{
+    text-align: center;
+    margin-top: 50px;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-bottom: 50px;
+    font-size: 1.3rem;
+    font-family: 'Montserrat', sans-serif;
+    color:rgb(39, 38, 38);
+}
+.main{
+    text-align: left;
+    
+}
+.sub_title{
+    text-align: center;
+}
+.sub_title a{
+    font-family: 'Montserrat', sans-serif;
+}
+.date p{
+    text-align: center;
+}
+.date{
+    color: rgb(61, 60, 60);
+}
+.reimg{
+    background-image:url("image/carleton.png");
+}
